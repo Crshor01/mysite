@@ -112,30 +112,24 @@ title{
 
 }
 
+h1{
+    font-family: 'Caveat', cursive;
+}
+
+h2{
+    font-family: 'Raleway', sans-serif;
+}
 
 body {
-    background-color: pink;
+    background-color: #ececec;
 }
 
-.header{
-    background-color: red;
-    width: 100%;
-    height: 100px;
-    text-align: center;
+.social_logo{
+    width: 100px;
 }
 
-#gallery{
-    background-color: blue;
-    width: 100%;
-    max-width: 1000px;
-    margin: auto;
-    text-align: center;
-}
 
-#gallery .clickbox{
-    background-color: #000;
-    width: 300px;
-    height: 250px;
-    border-radius: 20px;
-    display: inline-block;
+#main_photo{
+    width: 400px;
+    border-radius: 30px;
 }
